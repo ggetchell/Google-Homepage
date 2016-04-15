@@ -1,0 +1,107 @@
+body {
+  height: 100%;
+  /*text-align: center;*/
+}
+
+h1 {
+  text-align: center;
+}
+
+.blue {
+  color: blue;
+  font-size: 98px;
+  font-family: 'Lobster';
+  margin-left: 10px;
+ 
+}
+
+.red {
+  color: red;
+  font-size: 98px;
+  font-family: 'Lobster';
+  margin-left: 10px;
+  
+}
+
+.yellow {
+  color: yellow;
+  font-size: 98px;
+  font-family: 'Lobster';
+  margin-left: 10px;
+  
+}
+
+.green {
+  color: green;
+  font-size: 98px;
+  font-family: 'Lobster';
+  margin-left: 10px; 
+}
+.topnav {
+  display: inline-block;
+  padding: 0px;
+}
+#srch {
+  height: 35px;
+  width: 600px;
+  border-radius: 3px;
+  border-color: blue;
+  
+}
+#search-form {
+  text-align: center;
+  margin: 0 auto;
+}
+
+#btn {
+  color: blue;
+  height: 35px;
+  margin-left: 10px;
+  margin-top: 30px;
+  border-radius: 3px;
+}
+.logo {
+  margin-top: 100px;
+}
+li  {
+  display: inline;
+  padding: 10px;
+}
+ .navbar {
+  text-align: right;
+  height: 20px;
+}
+.navbar .th {
+  margin-top: 10px;
+}
+.navbar .bell {
+  border-radius: 100px;
+  margin-top: 10px;
+  margin-left: 15px;
+}
+.bottomnavleft {
+  list-style-type: none;
+  margin-top: 15px;
+  margin: 8px 5px 8px 8px;
+  float: left;
+  padding: 0px;
+  overflow: hidden;
+  
+}
+.bottomnavright {
+  list-style-type: none;
+  margin-top: 15px;
+  margin-right: 8px 5px 8px 8px;
+  padding: 0;
+  overflow: hidden;
+  float: right;
+}
+.footer {
+  border-top: 1px;
+  position: absolute;
+  botton: 0;
+  width: 100%;
+  min-width: 980px;
+  line-height: 20px;
+}
+ 
